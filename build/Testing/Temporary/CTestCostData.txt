@@ -1,0 +1,5 @@
+test.basic_tests 11 0.181127
+test.multiple_path_tests 12 0.180263
+test.tests_using_english_lexicon 12 10.8966
+test.word_ladder_test_benchmark 10 35.9604
+---

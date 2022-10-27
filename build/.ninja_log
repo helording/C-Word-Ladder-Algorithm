@@ -1,0 +1,20 @@
+# ninja log v5
+2291	2341	1660213961	source/libword_ladder.a	37b5bc124ee55506
+2	1248	1660207825	source/CMakeFiles/debugging_main.dir/debugging_main.cpp.o	1a1110e35f9ddb8e
+21010	21225	1660212226	test/libtest_main.a	a7b9a2124d30db11
+3757	5755	1660201744	test/word_ladder/CMakeFiles/multiple_path_tests.dir/multiple_path_tests.cpp.o	ec01c11327883eaf
+1586	1710	1660209884	source/debugging_main	f25b88f189ab0e0a
+14	1471	1660206117	test/word_ladder/CMakeFiles/basic_tests.dir/basic_tests.cpp.o	4bf18eacd6e9497d
+1752	10752	1660214189	test/word_ladder/word_ladder_test_benchmark	cc6362ee7973a508
+13369	13773	1660201752	test/word_ladder/multiple_path_tests	2cf65f2fabea8031
+2	1703	1660209963	test/word_ladder/CMakeFiles/tests_using_english_lexicon.dir/tests_using_english_lexicon.cpp.o	624f2b993ee266f9
+2	1751	1660214180	test/word_ladder/CMakeFiles/word_ladder_test_benchmark.dir/word_ladder_test_benchmark.cpp.o	cab0a533d35b5ab7
+13506	13935	1660209943	test/word_ladder/basic_tests	66c92166cbb2d857
+1758	2148	1660210005	test/word_ladder/tests_using_english_lexicon	6a75228ca693cb0d
+2	4229	1660212209	source/CMakeFiles/lexicon.dir/lexicon.cpp.o	c2470d3603290254
+4230	4431	1660212209	source/liblexicon.a	e51478aa07bfa7a2
+10	20997	1660212226	test/CMakeFiles/test_main.dir/test_main.cpp.o	b36caeb6cb53a408
+3	2291	1660213961	source/CMakeFiles/word_ladder.dir/word_ladder.cpp.o	fa6d60b212b27d7
+1	2376	1660260201	source/CMakeFiles/word_ladder.dir/word_ladder.cpp.o	fa6d60b212b27d7
+2376	2452	1660260201	source/libword_ladder.a	37b5bc124ee55506
+2452	11663	1660260210	test/word_ladder/word_ladder_test_benchmark	cc6362ee7973a508

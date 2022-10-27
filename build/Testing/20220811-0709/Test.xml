@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-11"
+	BuildStamp="20220811-0709-Experimental"
+	Name="vx6"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/clang++-11"
+	CompilerVersion="11.0.1"
+	OSName="Linux"
+	Hostname="vx3"
+	OSRelease="4.9.0-18-amd64"
+	OSVersion="#1 SMP Debian 4.9.303-1 (2022-03-07)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="79"
+	ProcessorCacheSize="35840"
+	NumberOfLogicalCPU="56"
+	NumberOfPhysicalCPU="28"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="257838"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1616.6"
+	>
+	<Testing>
+		<StartDateTime>Aug 12 09:23 AEST</StartDateTime>
+		<StartTestTime>1660260211</StartTestTime>
+		<TestList>
+			<Test>./test/word_ladder/test.basic_tests</Test>
+			<Test>./test/word_ladder/test.multiple_path_tests</Test>
+			<Test>./test/word_ladder/test.word_ladder_test_benchmark</Test>
+			<Test>./test/word_ladder/test.tests_using_english_lexicon</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test.basic_tests</Name>
+			<Path>./test/word_ladder</Path>
+			<FullName>./test/word_ladder/test.basic_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/basic_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.600217</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/basic_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DAyVQCxikoy8/OKFTLzFAzBChSSE4tTNbm4AErtIyU=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.multiple_path_tests</Name>
+			<Path>./test/word_ladder</Path>
+			<FullName>./test/word_ladder/test.multiple_path_tests</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/multiple_path_tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.700638</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/multiple_path_tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DAyVQCxikoy8/OKFTLzFAzBChSSE4tTNbm4AErtIyU=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.word_ladder_test_benchmark</Name>
+			<Path>./test/word_ladder</Path>
+			<FullName>./test/word_ladder/test.word_ladder_test_benchmark</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/word_ladder_test_benchmark</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>2.04949</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/word_ladder_test_benchmark</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DBUADGKSjLz8xQy8xQMwdIKyYnFqZpcXAAFUSJ8====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.tests_using_english_lexicon</Name>
+			<Path>./test/word_ladder</Path>
+			<FullName>./test/word_ladder/test.tests_using_english_lexicon</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/tests_using_english_lexicon</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>7.92143</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass1/build/test/word_ladder/tests_using_english_lexicon</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DC0UACxikoy8/OKFTLzFAzBChSSE4tTNbm4AEsoIyc=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 12 09:23 AEST</EndDateTime>
+		<EndTestTime>1660260219</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
